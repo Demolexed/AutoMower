@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AutoMower.Core/AutoMower.Core.csproj" />
+  <Project Path="AutoMower.UnitTests/AutoMower.UnitTests.csproj" Id="61f964fb-84bc-4240-9ac9-609e6e5dacd4" />
+  <Project Path="AutoMower/AutoMower.csproj" />
+</Solution>
